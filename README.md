@@ -1,1 +1,3 @@
 # Bingo
+
+Simulador de bingo
